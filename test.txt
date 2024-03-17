@@ -1,4 +1,7 @@
 Shinz is noob. Nova is Pro.
 (Nova lies a lot)
+<<<<<<< HEAD
 UR MOM 
 SHINZ U NOOB SAALE GANDU
+=======
+>>>>>>> c40da2d1be6792e689c89140667ba5c8f7702a27
